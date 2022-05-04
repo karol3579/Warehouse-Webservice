@@ -1,0 +1,3 @@
+namespace DocumentsManager.Service.Entities{
+    
+}
